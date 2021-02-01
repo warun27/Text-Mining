@@ -11,10 +11,10 @@ import matplotlib.pyplot as plt
 from wordcloud import WordCloud
 import pandas as pd
 import tweepy as twt
-consumer_key = "coXS7WiEBAn92bEX3Vc0kldbs"
-consumer_secret = "vnP92eztcT9P4i5XUY0R7DAjmsF3GToJSYXP5C4E76DUEIlHOb"
-access_key = "1327915081745588225-Dl7ggfgcYuNUga1HAyWCvoR6mjb12h"
-access_secret = "9TE6Ac6s311RSqXFycjUngSIX6cjHJqsvieyjV1by95xN"
+consumer_key = "****"
+consumer_secret = "****"
+access_key = "****"
+access_secret = "*****"
 from nltk.stem import PorterStemmer
 from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
 from nltk.stem import WordNetLemmatizer
